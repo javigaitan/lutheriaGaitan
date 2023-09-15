@@ -1,8 +1,34 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Lutheria Gaitan
 
-Currently, two official plugins are available:
+Sera una app para mostrar y ofrecer los trabajos de un luthier local. 
+Facilitar la comunicaicon con clientes a travez de mensajeria directa.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Funcionalidades
+
+- Mostrar resumen de info personal
+- Permitir comunicacion entre las partes
+- Manejo de proyectos, rendireccionamiento a mensajes
+
+## Tecnologías utilizadas
+
+- HTML
+- CSS
+- Tailwind
+- JavaScript
+- ReactJS
+- Vite
+- Firebase
+
+## Deploy
+
+Vercel
+
+## Desarrollador
+
+- Javi Gaitan
+
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT. 
