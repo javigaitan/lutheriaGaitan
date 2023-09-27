@@ -1,4 +1,6 @@
-import { Navbar } from "./Componentes/Navbar/Navbar"
+import React from "react"
+import  Navbar  from "./Componentes/Navbar/Navbar"
+import Carrucel from "./Componentes/Carrucel/Carrucel"
 
 function App() {
   
@@ -6,7 +8,7 @@ function App() {
   return (
     <>
     <Navbar/>
-      <h1>cuerpio</h1>
+    <Carrucel/>
     </>
   )
 }
